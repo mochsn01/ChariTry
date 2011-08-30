@@ -9,7 +9,7 @@ $cburl = 'http://befacebookking.com/fbstuff/charitry/';
 
 $canvas = 'https://apps.facebook.com/charitryapp/';
 
-$fanpageLink = 'http://www.facebook.com/Be.Faceb00k.King?sk=app_133225423421115';
+$fanpageLink = 'http://www.facebook.com/pages/ChariTry/206764136040354';
 
  
 
